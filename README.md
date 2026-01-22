@@ -4,7 +4,7 @@ An interactive, portable reference guide for **233+ AI agent skills** from the [
 
 ## 🚀 Live Demo
 
-**[View the Skills Guide](https://sickn33.github.io/skills-guide/)**
+**[View the Skills Guide](https://tnm6891.github.io/AntiSkills_Guide/)**
 
 ## ✨ Features
 
